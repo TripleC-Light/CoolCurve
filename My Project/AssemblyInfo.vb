@@ -8,17 +8,17 @@ Imports System.Runtime.InteropServices
 
 ' 檢閱組件屬性的值
 
-<Assembly: AssemblyTitle("CoolCurve")> 
+<Assembly: AssemblyTitle("")> 
 <Assembly: AssemblyDescription("")> 
-<Assembly: AssemblyCompany("台灣微軟")> 
-<Assembly: AssemblyProduct("CoolCurve")> 
-<Assembly: AssemblyCopyright("Copyright © 台灣微軟 2017")> 
+<Assembly: AssemblyCompany("TripleC.Inc")> 
+<Assembly: AssemblyProduct("")> 
+<Assembly: AssemblyCopyright("Copyright © TripleC.Inc")> 
 <Assembly: AssemblyTrademark("")> 
 
 <Assembly: ComVisible(False)>
 
 '下列 GUID 為專案公開 (Expose) 至 COM 時所要使用的 typelib ID
-<Assembly: Guid("b704f947-14c4-4418-b36b-93deb8b79222")> 
+<Assembly: Guid("975f2e8a-0f97-4281-a592-8ba66abdfd57")> 
 
 ' 組件的版本資訊是由下列四項值構成:
 '
