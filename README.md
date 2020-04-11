@@ -3,10 +3,10 @@ This is a application for Laser engraving to convert image to G-code,
 
 You can read **"SLM-01雷射模組使用說明_ver2.0.pdf"** for more information.
 
-<center><img src="https://github.com/TripleC-Light/FarmBot/blob/master/image/1.JPG?raw=true" width=600></center>
-<center><img src="https://github.com/TripleC-Light/FarmBot/blob/master/image/2.JPG?raw=true" width=600></center>
-<center><img src="https://github.com/TripleC-Light/FarmBot/blob/master/image/3.JPG?raw=true" width=600></center>
-<center><img src="https://github.com/TripleC-Light/FarmBot/blob/master/image/4.JPG?raw=true" width=600></center>
+<center><img src="https://github.com/TripleC-Light/CoolCurve/blob/master/image/1.jpg?raw=true" width=600></center>
+<center><img src="https://github.com/TripleC-Light/CoolCurve/blob/master/image/2.jpg?raw=true" width=600></center>
+<center><img src="https://github.com/TripleC-Light/CoolCurve/blob/master/image/3.jpg?raw=true" width=600></center>
+<center><img src="https://github.com/TripleC-Light/CoolCurve/blob/master/image/4.jpg?raw=true" width=600></center>
 
 ## About Me
  - My Blog : [愛德華空想科學誌](https://triplec-light.000webhostapp.com)
