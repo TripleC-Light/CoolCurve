@@ -9,7 +9,7 @@ You can read **"SLM-01雷射模組使用說明_ver2.0.pdf"** for more informatio
 <center><img src="https://github.com/TripleC-Light/CoolCurve/blob/master/image/4.jpg?raw=true" width=600></center>
 
 ## About Me
- - My Blog : [愛德華空想科學誌](https://triplec-light.000webhostapp.com)
+ - My Blog : [愛德華空想科學誌]
  - E-mail : TripleC.Light@gmail.com
  - LinkedIn : [Edward Chou](https://www.linkedin.com/in/edward-chou-42058912a)
  - Buy Me A Coffee : [Buy Me A Coffee](https://www.buymeacoffee.com/YrFKPo2)
